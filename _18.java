@@ -5,7 +5,7 @@ public class _18
     {
         Scanner scan1 = new Scanner(System.in);
         int[] a;
-        int inp, size, temp;
+        int inp, size;
         System.out.print("Enter Size of Array: ");
         size = scan1.nextInt();
         a = new int[size];
@@ -15,18 +15,7 @@ public class _18
             inp = scan1.nextInt();
             a[i] = inp;
         }
-        for (int i = 0; i < a.length; i++) 
-        {
-            for (int j = 0; j < a.length; j++) 
-            {
-                if (a[i]<a[j]) 
-                {
-                    temp = a[i];
-                    a[i] = a[j];
-                    a[j] = temp;
-                }
-            }
-        }
+        Arrays.sort(a);
         System.out.print("Sorted: ");
         for (int i = 0; i < a.length; i++) 
         {
