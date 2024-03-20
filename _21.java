@@ -7,23 +7,19 @@ class Person
     void set()
     {
         Scanner scan1 = new Scanner(System.in);
-        
         System.out.print("Enter Name: ");
-        String inp = scan1.nextLine();
-        name=inp;
+        name = scan1.nextLine();
         System.out.print("Enter Age: ");
-        int inp2 = scan1.nextInt();
-        age=inp2;
-        System.out.print("Enter Salary: ₹");
-        inp2= scan1.nextInt();
-        salary=inp2;
+        age = scan1.nextInt();
+        System.out.print("Enter Salary: $");
+        salary = scan1.nextInt();
         scan1.close();
     }
     void display()
     {
         System.out.println("Name: "+name);
         System.out.println("Age: "+age);
-        System.out.println("Salary: ₹"+salary);
+        System.out.println("Salary: $"+salary);
     }
 }
 public class _21
