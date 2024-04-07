@@ -40,10 +40,10 @@ public class _24
         {
             e[i] = new Employee();
         }
-        // for (int i = 0; i < 10; i++) 
-        // {
-        //     e[i].set();
-        // }
+        for (int i = 0; i < 10; i++) 
+        {
+            e[i].set();
+        }
         for (int i = 0; i < 10; i++) 
         {
             e[i].display();

@@ -14,6 +14,7 @@ public class _16
             inp = scan1.nextInt();
             a[i] = inp;
         }
+        System.out.print("Reversed: ");
         for(int i = 0; i<10; i++)
         {
             b[i] = a[10 - i - 1];

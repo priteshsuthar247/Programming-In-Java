@@ -13,7 +13,7 @@ public class _14
             if (a%count==0) 
             {
                 a = a/count;
-                System.out.println(a+" "+count);
+                System.out.print(count+",");
             }
             else
             {
