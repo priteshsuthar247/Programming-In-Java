@@ -15,12 +15,12 @@ class Employee
     void set()
     {
         Scanner scan1 = new Scanner(System.in);
-        System.out.println("Enter Name: ");
+        System.out.print("Enter Name: ");
         name = scan1.nextLine();
-        System.out.println("Enter Age: ");
+        System.out.print("Enter Age: ");
         age = scan1.nextInt();
-        System.out.println("Enter Salary: $");
-        scan1.close();
+        System.out.print("Enter Salary: $");
+        salary = scan1.nextInt();
     }
     void display()
     {
