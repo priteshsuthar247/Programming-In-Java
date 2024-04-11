@@ -28,6 +28,6 @@ java --module-path "D:\Pritesh\Programs\Windows\javafx-sdk-22\lib" --add-modules
 >[!Note]
 >Replace the path in
 > ```java
-> javac --module-path "D:\Pritesh\Programs\Windows\openjfx-22_windows-x64_bin-sdk (1)\javafx-sdk-22\lib"
+> javac --module-path "D:\Pritesh\Programs\Windows\javafx-sdk-22\lib"
 > ```
 > With the path which you had copied in Step 3
