@@ -1,4 +1,4 @@
-<h2>Aim</h2>
+# Aim
 <p>
   Body Mass Index (BMI) is a measure of health on weight. It can be calculated by taking your <br>
   weight in kilograms and dividing by the square of your height in meters. Write a program that <br>
