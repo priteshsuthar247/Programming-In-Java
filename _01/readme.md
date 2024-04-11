@@ -1,4 +1,4 @@
-<h2>Aim</h2>
+# Aim
 <p>
   Use Cramer's rule to solve the following 2 X 2 system of linear equations for x and y: <br>
 ax + by = e, x = (ed - bf)/(ad - bc) <br>
