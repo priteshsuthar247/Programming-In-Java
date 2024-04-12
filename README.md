@@ -93,12 +93,11 @@ Note: (1) 3.4x+50.2y=44.5 (2) 2.1x+.55y=5.9
 </p>
 
 <h2>Practical-15</h2>
-  <p>Write a method with following method header</p>
-  
-  ```java
-  public static int gcd(int num1, int num2)
-  ```
- <p>Write a program that prompts the user to enter two integers and compute the gcd of two integers.</p>
+  <p>
+   Write a method with following method header
+   public static int gcd(int num1, int num2)
+   Write a program that prompts the user to enter two integers and compute the gcd of two integers.
+  </p>
 
  <h2>Practical-16</h2>
  <p>
