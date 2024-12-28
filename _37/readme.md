@@ -7,10 +7,10 @@ JavaFx”.
 <h2>Requirements</h2>
 
   1. Download JavaFX Library from the following link:
-  - Windows: https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_windows-x64_bin-sdk.zip
-  - Linux: https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_linux-x64_bin-sdk.tar.gz
-  - Apple Silicon Mac's: https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_macos-aarch64_bin-sdk.tar.gz
-  - Intel Mac's: https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_macos-x64_bin-sdk.tar.gz
+  - [Windows](https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_windows-x64_bin-sdk.zip)
+  - [Linux](https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_linux-x64_bin-sdk.tar.gz)
+  - [Apple Silicon Mac's](https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_macos-aarch64_bin-sdk.tar.gz)
+  - [Intel Mac's](https://download.java.net/java/GA/javafx22/d95151bba92e4a31a3170a68c917c699/30/openjfx-22_macos-x64_bin-sdk.tar.gz)
 
   2. After Downloading the folder extract it.
   3. Copy the path of lib folder
